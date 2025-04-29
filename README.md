@@ -16,10 +16,10 @@ A construção desta aplicação envolveu o uso de tecnologias web fundamentais:
 
 ## Como Utilizar
 
-1.  **Acessar online:** Após a publicação no GitHub Pages (conforme discutido anteriormente), a sua To-Do List estará acessível através de um link no formato `https://<seu-nome-de-usuario>.github.io/<nome-do-seu-repositorio>/`.
-2.  **Adicionar tarefas:** Basta digitar a tarefa desejada no campo de texto "O que fazer hoje?" e clicar no botão "Adicionar". A nova tarefa será adicionada à lista abaixo.
-3.  **Marcar como concluída (se implementado):** Futuramente, ou se já implementado, haverá uma forma de marcar as tarefas como concluídas, talvez clicando no item da lista ou em um botão adjacente.
-4.  **Remover tarefas (se implementado):** Da mesma forma, poderá haver uma opção para remover tarefas da lista.
+1.  **Acessar online:** Após a publicação no GitHub Pages (conforme discutido anteriormente), a sua To-Do List estará acessível através de um link no formato [Site](https://laispimentel.github.io/my-to-do-list) ou copie e cole no navegador`https://laispimentel.github.io/my-to-do-list`.
+3.  **Adicionar tarefas:** Basta digitar a tarefa desejada no campo de texto "O que fazer hoje?" e clicar no botão "Adicionar". A nova tarefa será adicionada à lista abaixo.
+4.  **Marcar como concluída (se implementado):** Futuramente, ou se já implementado, haverá uma forma de marcar as tarefas como concluídas, talvez clicando no item da lista ou em um botão adjacente.
+5.  **Remover tarefas (se implementado):** Da mesma forma, poderá haver uma opção para remover tarefas da lista.
 
 ## Próximos Passos (Ideias)
 
@@ -36,7 +36,7 @@ Este projeto foi desenvolvido com a intenção de ser publicado de forma gratuit
 
 ## Autor
 
-[Lais Pimente] ([Seu Perfil no GitHub](https://github.com/laispimentel))
+[Lais Pimentel](https://github.com/laispimentel)
 
 ---
 
