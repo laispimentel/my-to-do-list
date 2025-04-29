@@ -18,14 +18,11 @@ A construção desta aplicação envolveu o uso de tecnologias web fundamentais:
 
 1.  **Acessar online:** Após a publicação no GitHub Pages (conforme discutido anteriormente), a sua To-Do List estará acessível através de um link no formato [Site](https://laispimentel.github.io/my-to-do-list) ou copie e cole no navegador`https://laispimentel.github.io/my-to-do-list`.
 3.  **Adicionar tarefas:** Basta digitar a tarefa desejada no campo de texto "O que fazer hoje?" e clicar no botão "Adicionar". A nova tarefa será adicionada à lista abaixo.
-4.  **Marcar como concluída (se implementado):** Futuramente, ou se já implementado, haverá uma forma de marcar as tarefas como concluídas, talvez clicando no item da lista ou em um botão adjacente.
-5.  **Remover tarefas (se implementado):** Da mesma forma, poderá haver uma opção para remover tarefas da lista.
+4.  **Marcar como concluída :** Quando passar o mouse em cima da tarefa desejada. aparecerá os icones de checkout , clique nele e mudará de cor e acrescentará uma linha indicando que foi concluido a tarefa.
+5.  **Remover tarefas :** Quando passar o mouse em cima da tarefa desejada. aparecerá o icone de trash , clique nele e a tarefa será eliminada da sua lista.
 
 ## Próximos Passos (Ideias)
 
-* **Persistência de dados:** Atualmente, as tarefas provavelmente desaparecem ao fechar o navegador. Uma melhoria seria implementar a persistência de dados utilizando `localStorage` do navegador ou um backend mais robusto.
-* **Marcar como concluída:** Adicionar a funcionalidade visual e lógica para marcar tarefas como feitas.
-* **Remover tarefas:** Implementar a opção de remover itens da lista.
 * **Edição de tarefas:** Permitir que o usuário edite uma tarefa existente.
 * **Filtragem e ordenação:** Adicionar opções para filtrar tarefas (por exemplo, pendentes, concluídas) e ordená-las.
 * **Responsividade:** Garantir que a aplicação funcione bem em diferentes tamanhos de tela (desktop, tablet, mobile).
